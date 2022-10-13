@@ -1,18 +1,18 @@
 {
   "name": "sa44-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยrb88✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยrb88",
-"วิธีแทงหวยในเว็บ",
-"lottovip app",
-"เว็บเล่นหวยลาว",
-"เข้าแอป huaysod"
-],
+  "version": "0.2.0",
+  "description": "หวยrb88✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยrb88",
+    "วิธีแทงหวยในเว็บ",
+    "lottovip app",
+    "เว็บเล่นหวยลาว",
+    "เข้าแอป huaysod"
+  ],
   "repository": "https://github.com/setteebet/sa44-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
